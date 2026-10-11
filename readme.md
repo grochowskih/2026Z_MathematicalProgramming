@@ -1,4 +1,4 @@
-# Modelowanie matematyczne
+# Programowanie matematyczne
 Materiały do zajęć laboratoryjnych z przedmiotu *Programowanie matematyczne*. 
 
 Przedmiot prowadzony jest na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej, na studiach magisterskich, na kierunku Informatyka i Systemy Informacyjne, w semestrze zimowym 2026/2027.
