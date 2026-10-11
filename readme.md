@@ -12,7 +12,7 @@ W ramach przedmiotu prowadzone są:
 - Grupa 1: Wtorki, 10:15 (co drugi tydzień)
 - Grupa 2: Poniedziałki, 12:15 (co drugi tydzień)
 - Grupa 3: Poniedziałki, 12:15 (co drugi tydzień)
-- Grupa 4: Poniedziałki, 18:15 (co drugi tydzień)
+- Grupa 5: Poniedziałki, 18:15 (co drugi tydzień)
 
 ## Kalendarz laboratorium
 
