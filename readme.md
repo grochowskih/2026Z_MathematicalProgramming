@@ -42,6 +42,14 @@ W ramach przedmiotu prowadzone są:
     <td>19.10</td>
     <td>12.10</td>
   </tr>
+  <tr>
+    <td rowspan="1">Lab 2</td>
+    <td>Postać standardowa, algorytm sympleks i modyfikacje</td>
+    <td>03.11</td>
+    <td>26.10</td>
+    <td>02.11</td>
+    <td>26.10</td>
+  </tr>
 </tbody></table>
 
 ## Punktacja laboratoriów - opis skrócony
