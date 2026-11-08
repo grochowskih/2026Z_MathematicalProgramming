@@ -50,6 +50,14 @@ W ramach przedmiotu prowadzone są:
     <td>02.11</td>
     <td>26.10</td>
   </tr>
+  <tr>
+    <td rowspan="1">Lab 4</td>
+    <td>Zagadnienie dualne programowania liniowego</td>
+    <td>17.11</td>
+    <td>09.11</td>
+    <td>16.11</td>
+    <td>09.11</td>
+  </tr>
 </tbody></table>
 
 ## Punktacja laboratoriów - opis skrócony
