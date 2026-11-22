@@ -58,6 +58,14 @@ W ramach przedmiotu prowadzone są:
     <td>16.11</td>
     <td>09.11</td>
   </tr>
+  <tr>
+    <td rowspan="1">Lab 5</td>
+    <td>Programowanie nieliniowe bez ograniczeń</td>
+    <td>01.12</td>
+    <td>23.11</td>
+    <td>30.11</td>
+    <td>23.11</td>
+  </tr>
 </tbody></table>
 
 ## Punktacja laboratoriów - opis skrócony
